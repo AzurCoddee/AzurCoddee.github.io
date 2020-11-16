@@ -1,4 +1,5 @@
-var	$parent = $("#main"),
+
+	var	$parent = $("#main"),
 		$aside = $("#aside"),
 		$asideTarget = $aside.find(".aside--details"),
 		$asideClose = $aside.find(".close"),
