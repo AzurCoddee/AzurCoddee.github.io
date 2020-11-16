@@ -1,4 +1,6 @@
-
+$().ready(function() {
+	$("#text").html("debug");
+ });
 	var	$parent = $("#main"),
 		$aside = $("#aside"),
 		$asideTarget = $aside.find(".aside--details"),
